@@ -1,9 +1,7 @@
-package Lab03StudentSystem;
+package L03StudentSystem;
 
-import java.util.Dictionary;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Scanner;
 
 public class StudentSystem {
     private Map<String, Student> repo;

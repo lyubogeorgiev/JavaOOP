@@ -1,4 +1,4 @@
-package Lab03StudentSystem;
+package L03StudentSystem;
 
 import java.util.Scanner;
 

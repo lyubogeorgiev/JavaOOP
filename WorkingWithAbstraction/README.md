@@ -17,3 +17,9 @@ Lab 03 - Student System
 -
 
 This assignment was just to refactor the code according to the Java conventions and rules.
+
+Lab 04 - Hotel Reservation
+-
+
+Created a class PriceCalculator which has a method calculatePrice() that calculates the final price of a hotel stay. 
+DiscountType and Season are two Enum classes that contain info needed for calculating the price.
