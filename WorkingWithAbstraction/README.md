@@ -41,3 +41,8 @@ Exercise 03 - Cards with Power
 
 Created two enums, one is CardPower and the other one is SuitPower. Each one has integer value of power and a method that 
 returns that power, called getPower(). The power of each card is calculated according to the requirements in the Main class.
+
+Exercise 04 - Traffic Lights
+-
+
+Created an Enum with light signals states. 
