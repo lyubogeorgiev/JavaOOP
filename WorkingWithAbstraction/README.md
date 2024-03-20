@@ -35,3 +35,9 @@ Exercise 02 - Card Rank
 
 Same as the last problem but this time created an Enum type containing all the card ranks and printed ordinal values and 
 names into the Main class.
+
+Exercise 03 - Cards with Power
+-
+
+Created two enums, one is CardPower and the other one is SuitPower. Each one has integer value of power and a method that 
+returns that power, called getPower(). The power of each card is calculated according to the requirements in the Main class.
