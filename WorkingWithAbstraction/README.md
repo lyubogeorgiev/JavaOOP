@@ -29,3 +29,9 @@ Exercise 01 - Card Suit
 
 Created Enum type containing the four card suits. Iterating over the values of the Enum type and printing the Ordinal 
 value and the name of each one on a new line in the Main class.
+
+Exercise 02 - Card Rank
+-
+
+Same as the last problem but this time created an Enum type containing all the card ranks and printed ordinal values and 
+names into the Main class.
