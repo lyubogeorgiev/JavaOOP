@@ -12,3 +12,8 @@ Lab 02 - Point in Rectangle
 Created a class Point which has coordinates x and y. Class Rectangle contains 2 points of class Point, lower left corner 
 and top right corner of the rectangle. A class contains which returns true or false value is implemented in class Rectangle 
 to determine whether a point is inside the rectangle or outside of the rectangle. 
+
+Lab 03 - Student System
+-
+
+This assignment was just to refactor the code according to the Java conventions and rules.
