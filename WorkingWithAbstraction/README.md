@@ -23,3 +23,9 @@ Lab 04 - Hotel Reservation
 
 Created a class PriceCalculator which has a method calculatePrice() that calculates the final price of a hotel stay. 
 DiscountType and Season are two Enum classes that contain info needed for calculating the price.
+
+Exercise 01 - Card Suit
+-
+
+Created Enum type containing the four card suits. Iterating over the values of the Enum type and printing the Ordinal 
+value and the name of each one on a new line in the Main class.
