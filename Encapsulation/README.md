@@ -31,9 +31,13 @@ using a private setters to validate the input according to the requirements. If 
 an exception is thrown and the program execution is terminated. The exception thrown is handled with appropriate message 
 in the Main method.
 
-Exercise o2 - Animal Farm
+Exercise 02 - Animal Farm
 -
 
 Class Chicken created which has fields and methods. Some of the methods are also encapsulated according to the requirements. 
 Private setters are used to validate the initial values of the input while creating an object of the class Chicken and 
 appropriate exceptions are thrown. Exceptions are handled in the Main class with the required messages. 
+
+Exercise 03 - Shopping Spree
+-
+
