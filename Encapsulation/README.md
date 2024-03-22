@@ -22,3 +22,11 @@ Lab 04 - First and Reserve Team
 Created a class Team which have 2 fields of type List<Person> - firstTeam and reserveTeam. Validation added for the player 
 to which team to be added into the settter method, if the player is under 40 y.o. will be added to the first team. If the 
 player is 40 y.o. and older, will be added to the reserve team. 
+
+Exercise 01 - Class Box
+-
+
+Created a class Box which has fields length, width, and height. It has all parameter constructor which sets the values by 
+using a private setters to validate the input according to the requirements. If any of the input values is 0 or negative, 
+an exception is thrown and the program execution is terminated. The exception thrown is handled with appropriate message 
+in the Main method.
