@@ -12,3 +12,8 @@ Lab 03 - Random ArrayList
 -
 
 Simple example of how we can extend existing Java classes and add more functionality. 
+
+Lab 04 - Stack of Strings 
+-
+
+A simple example of how to use delegation in classes. 
