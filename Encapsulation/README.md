@@ -41,3 +41,9 @@ appropriate exceptions are thrown. Exceptions are handled in the Main class with
 Exercise 03 - Shopping Spree
 -
 
+Exercise 04 - Pizza Calories
+-
+
+Created class Topping, Dough, and Pizza. ToppingModifiers and DoughModifiers are stored in Enum type. Inputs have private 
+setters to validate the input according to the requirements which throws suitable exceptions. The exceptions are catch 
+in the Main method with appropriate messages.
