@@ -7,3 +7,8 @@ Lab 02 - Hierarchical Inheritance
 -
 
 Simple example of how one class can be inherited by multiple classes.
+
+Lab 03 - Random ArrayList
+-
+
+Simple example of how we can extend existing Java classes and add more functionality. 
