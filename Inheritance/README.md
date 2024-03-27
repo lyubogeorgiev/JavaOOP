@@ -23,3 +23,8 @@ Exercise 01 - Person
 
 There are 2 classes - Person and Child. Child inherits from Person as Person has fields and getters and setters. Person 
 also has all args constructor which is called in Child class by using the super() keyword. 
+
+Exercise 02 - Zoo
+-
+
+Example with multiple levels of inheritance. 
