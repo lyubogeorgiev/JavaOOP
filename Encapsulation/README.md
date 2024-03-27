@@ -47,3 +47,9 @@ Exercise 04 - Pizza Calories
 Created class Topping, Dough, and Pizza. ToppingModifiers and DoughModifiers are stored in Enum type. Inputs have private 
 setters to validate the input according to the requirements which throws suitable exceptions. The exceptions are catch 
 in the Main method with appropriate messages.
+
+Exercise 05 - Football Team Generator
+-
+
+Classes Player and Team are made with Encapsulated data inside according to the requirements. Exception handling is 
+implemented in the Main method to handle the exceptions which might be thrown from the data validation in the classes. 
