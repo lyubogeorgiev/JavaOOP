@@ -28,3 +28,9 @@ Exercise 02 - Zoo
 -
 
 Example with multiple levels of inheritance. 
+
+Exercise 03 - Players and Monsters
+-
+
+Multiple inheritance levels.
+
