@@ -34,3 +34,7 @@ Exercise 03 - Players and Monsters
 
 Multiple inheritance levels.
 
+Exercise 04 - Need for Speed
+-
+
+Class inheritance with some modifications examples.
