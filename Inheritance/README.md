@@ -38,3 +38,8 @@ Exercise 04 - Need for Speed
 -
 
 Class inheritance with some modifications examples.
+
+Exercise 05 - Restaurant
+-
+
+Example with multiple inheritance levels.
