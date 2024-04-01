@@ -43,3 +43,8 @@ Exercise 05 - Restaurant
 -
 
 Example with multiple inheritance levels.
+
+Exercise 06 - Animals
+-
+
+Example of inheritance with using Abstract class with Abstract method. Constructor overloading and default parameters. 
