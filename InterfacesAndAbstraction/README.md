@@ -27,3 +27,8 @@ Lab 05 - Border Control
 
 Example of how to use an Interface for multiple classes to extend it and the to create a list of objects with the Interface 
 where it consists objects of different classes.
+
+Lab 06 - Ferrari
+-
+
+Simple example of Interface and a class which implements the Interface.
