@@ -16,3 +16,14 @@ Lab 03 - Say Hello
 
 Example of how an Abstract class can be extended by multiple classes and implemented methods can be overridden only 
 whenever is necessary to do it. 
+
+Lab 04 - Say Hello Extended
+-
+
+Implemented a class BasePerson which implemented the Interface Person. Every other class extends BasePerson.
+
+Lab 05 - Border Control
+-
+
+Example of how to use an Interface for multiple classes to extend it and the to create a list of objects with the Interface 
+where it consists objects of different classes.
