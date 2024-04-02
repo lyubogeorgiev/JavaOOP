@@ -38,3 +38,7 @@ Exercise 01 - Define an Interface Person
 Interface Person with 2 methods declared. Class Citizen implements Person and has 2 fields, parameterized constructor and the 
 2 declared methods overridden from the Interface. 
 
+Exercise 02 - Multiple Implementations
+-
+
+Example of implementing multiple Interfaces to 1 Class.
