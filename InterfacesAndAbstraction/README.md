@@ -52,3 +52,9 @@ Exercise 04 - Food Shortage
 -
 
 Example of creating a List<Interface> which will consist different class objects. 
+
+Exercise 05 - Telephony
+-
+
+Created a Class Smartphone which implements two Interfaces - Callable and Browsable. Some Exception handling was implemented.
+
