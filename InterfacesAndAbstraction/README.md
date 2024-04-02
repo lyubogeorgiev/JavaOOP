@@ -42,3 +42,8 @@ Exercise 02 - Multiple Implementations
 -
 
 Example of implementing multiple Interfaces to 1 Class.
+
+Exercise 03 - Birthday Celebrations
+-
+
+Example of creating a List of Interface which can contain different class objects. 
