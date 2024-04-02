@@ -32,3 +32,9 @@ Lab 06 - Ferrari
 -
 
 Simple example of Interface and a class which implements the Interface.
+
+Exercise 01 - Define an Interface Person
+-
+Interface Person with 2 methods declared. Class Citizen implements Person and has 2 fields, parameterized constructor and the 
+2 declared methods overridden from the Interface. 
+
