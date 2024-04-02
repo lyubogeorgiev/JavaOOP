@@ -47,3 +47,8 @@ Exercise 03 - Birthday Celebrations
 -
 
 Example of creating a List of Interface which can contain different class objects. 
+
+Exercise 04 - Food Shortage
+-
+
+Example of creating a List<Interface> which will consist different class objects. 
