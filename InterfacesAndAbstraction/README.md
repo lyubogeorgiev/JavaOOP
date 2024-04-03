@@ -61,4 +61,4 @@ Created a Class Smartphone which implements two Interfaces - Callable and Browsa
 Exercise 06 - Military Elite
 -
 
-Complex use of Interfaces and Classes with Enumeration classes. 
+Complex use of Interfaces and Classes with Enumeration classes.
