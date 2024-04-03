@@ -58,3 +58,7 @@ Exercise 05 - Telephony
 
 Created a Class Smartphone which implements two Interfaces - Callable and Browsable. Some Exception handling was implemented.
 
+Exercise 06 - Military Elite
+-
+
+Complex use of Interfaces and Classes with Enumeration classes. 
