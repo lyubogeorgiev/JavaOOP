@@ -8,3 +8,9 @@ Lab 02 - Shapes
 
 Created an Abstract class Shape with some fields, abstract methods, and non-abstract methods. Classes Circle and Rectangle 
 are extending the abstract class Shape and add their own implementation.
+
+Lab 03 - Animals
+-
+
+Created Abstract class Animal with fields and regular methods, as well as Abstract method explainSelf() which is overridden 
+in the two classes - Cat and Dog which extend the abstract class Animal.
