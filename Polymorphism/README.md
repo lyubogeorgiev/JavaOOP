@@ -14,3 +14,8 @@ Lab 03 - Animals
 
 Created Abstract class Animal with fields and regular methods, as well as Abstract method explainSelf() which is overridden 
 in the two classes - Cat and Dog which extend the abstract class Animal.
+
+Lab 04 - Wild Farm
+-
+
+Created some Abstract classes and some non-abstract classes according to the requirements. Example of Polymorphism.
