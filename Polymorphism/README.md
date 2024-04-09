@@ -19,3 +19,10 @@ Lab 04 - Wild Farm
 -
 
 Created some Abstract classes and some non-abstract classes according to the requirements. Example of Polymorphism.
+
+Exercise 01 - Vehicles
+-
+
+Created an Abstract class Vehicle with fields, constructor, getters, setters, and 2 abstract methods. Created classes for 
+Car and Truck which both extended the abstract class Vehicle. Override the abstract methods for both Car and Truck according 
+to the requirements. Override the toString() method for easy printing the Vehicle type and fuel left. 
