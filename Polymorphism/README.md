@@ -32,7 +32,3 @@ Exercise 02 - Vehicles Extension
 
 Added a class Bus, which can be driven empty, or with passenger. When it is empty, the AC is off, so the extra consumption 
 calculation is turned off.
-
-Exercise 03 - Word
--
-
