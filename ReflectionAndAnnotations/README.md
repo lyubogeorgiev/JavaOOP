@@ -21,4 +21,4 @@ Lab 04 - Create Annotations
 
 Created annotation called Subject. Annotated it with @Target(ElementType.TYPE) to specify it can be used only on Class type. 
 Also added another annotation @Retention(RetentionPolicy.RUNTIME) which indicates that the annotation we created will be 
-available at Runtime.
+available at Runtime. 
