@@ -22,3 +22,10 @@ Lab 04 - Create Annotations
 Created annotation called Subject. Annotated it with @Target(ElementType.TYPE) to specify it can be used only on Class type. 
 Also added another annotation @Retention(RetentionPolicy.RUNTIME) which indicates that the annotation we created will be 
 available at Runtime. 
+
+Lab 05 - Coding Tracker
+-
+
+Created Annotation Author with a String element called name. The annotation can be used only on methods and also is available 
+at Runtime. Created a class Tracker which have methods with Author annotation and print methods by author according to the 
+requirements. 
