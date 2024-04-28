@@ -19,3 +19,9 @@ Lab 03 - Enter Numbers
 
 try block with 2 catch clauses was implemented in order to be able to throw different exceptions in different cases with 
 different messages. 
+
+Lab 04 - Fixing
+-
+
+Intentionally the code is written trying to access an element out of array's bounds. The fix is to use a try-catch 
+block to handle the exception without stopping the program execution and just throwing the appropriate exception message. 
