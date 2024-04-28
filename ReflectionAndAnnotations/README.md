@@ -36,3 +36,9 @@ Exercise 01 - Harvesting Fields
 A Map with String as a key and List<Field> as value was created to store all the required fields by access modifier. Once 
 all the fields are stored, when a condition was received from the console, the requested fields by access modifier are 
 printed on the console according to the requirements. 
+
+Exercise 02 - Black Box Integer 
+-
+
+Constructor is extracted from the class and is used to create a new Instance as the Constructor is private. Private methods 
+and fields are also extracted from the class and are used with reflection on the object to change values and print field values.
