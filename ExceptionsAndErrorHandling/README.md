@@ -13,3 +13,9 @@ thrown with the message and the finally block is executed. If the number is nega
 doesnt exist a square root of a negative number, then we throw a NumberFormatException and finally the finally block is 
 also executed. In case the input is correct and there is no exception thrown, we print the desired output and also finally 
 block is executed. 
+
+Lab 03 - Enter Numbers
+-
+
+try block with 2 catch clauses was implemented in order to be able to throw different exceptions in different cases with 
+different messages. 
