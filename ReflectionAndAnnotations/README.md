@@ -29,3 +29,10 @@ Lab 05 - Coding Tracker
 Created Annotation Author with a String element called name. The annotation can be used only on methods and also is available 
 at Runtime. Created a class Tracker which have methods with Author annotation and print methods by author according to the 
 requirements. 
+
+Exercise 01 - Harvesting Fields
+-
+
+A Map with String as a key and List<Field> as value was created to store all the required fields by access modifier. Once 
+all the fields are stored, when a condition was received from the console, the requested fields by access modifier are 
+printed on the console according to the requirements. 
